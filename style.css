@@ -1,2 +1,42 @@
 /*create your custom styling here*/
 
+#container{
+	height: 200px;
+	border: 10px solid;
+}
+
+.header{
+	background-color: green;
+}
+
+.footer{
+	background-color: orange;
+	float: bottom;
+}
+
+.small-box{
+	background-color: orange;
+	margin: 20px;
+	position: relative;
+}
+.sidebar{
+	background-color: blue;
+	border: 10px;
+	height: 600px;
+	width: 200px;
+	position: relative;
+	top: 200px;
+	border: 10px solid;
+}
+
+#main-story{
+
+}
+
+#right-sidebar{
+	float: right;
+}
+
+#left-sidebar{
+	float: left;
+}
